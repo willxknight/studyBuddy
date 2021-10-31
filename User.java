@@ -15,8 +15,26 @@ public class User {
     private int id;
     private String name;
     private String address;
+    private int v;
+    private int a;
+    private int r;
+    private int k;
+    private int pref;
+    private ArrayList<String> userinfo;
 
     public User() {
+        
+        
+        /*0 is id
+        1 is firstname 
+        2 is lastname 
+        3 is gender 
+        4 v 
+        5 a
+        6 r
+        7 k
+        8 group size preference
+        
     }
 
     public int getId() {
@@ -43,5 +61,7 @@ public class User {
         this.address = address;
     }
     */
+    
+    
 
 }
