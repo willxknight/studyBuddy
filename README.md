@@ -1,1 +1,2 @@
-# studybuddy CS370 project for Fall 2021
+# 
+studybuddy CS370 project for Fall 2021
